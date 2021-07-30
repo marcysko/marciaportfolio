@@ -9,7 +9,7 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "a Human",
+  name: "Marcia",
 };
 const background = {
   // Options: Snow or Particle
@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. ",
+    "My name is Marcia Skousen and I decided to make a career change after working for thirteen years in the health insurance industry. I recently graduated from the University of Arizona Coding Boot Camp with a certificate in Full Stack Web Development. My background has prepared me well for the attention to detail and problem solving required to be a great developer. I consider myself a 'forever student' and I am continually striving to stay in sync with the latest in technology. I am passionate about travel, learning foreign languages, gastronomy, reading and music.",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -145,17 +145,16 @@ const section5Title = "Get in Touch";
 const contact = {
   pitch:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
-  copyright: "Kaustubh Mishra",
+  copyright: "Marcia Skousen",
   contactUrl: "",
 };
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
 const social = {
   github: "https://github.com",
-  facebook: "https://facebook.com",
   linkedin: "https://linkedin.com",
   instagram: "https://instagram.com",
-  resume: "https://novoresume.com/",
+  resume: "https://docs.google.com/document/d/18zZ1pFuwUCThGCUzuikNlsXMjeBBcwpIhkJArd2R6Lc/edit?usp=sharing",
 };
 // Dont change anything here
 export {
