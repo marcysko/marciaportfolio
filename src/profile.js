@@ -74,9 +74,9 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
-    name: "Project 1",
+    name: "Spy Solutions",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://morning-tundra-00231.herokuapp.com/",
   },
   {
     // Add image in './styles/images.css' in #project2
