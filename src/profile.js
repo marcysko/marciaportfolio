@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "My name is Marcia Skousen and I decided to make a career change after working for thirteen years in the health insurance industry. I recently graduated from the University of Arizona Coding Boot Camp with a certificate in Full Stack Web Development. My background has prepared me well for the attention to detail and problem solving required to be a great developer. I consider myself a 'forever student' and I am continually striving to stay in sync with the latest in technology. I am passionate about travel, learning foreign languages, gastronomy, reading and music.",
+    "My name is Marcia Skousen and I recently graduated from the University of Arizona Coding Boot Camp with a certificate in Full Stack Web Development. My background has prepared me well for the attention to detail and problem solving required to be a great developer. I consider myself a 'forever student' and I am continually striving to stay in sync with the latest in technology. I am passionate about travel, learning foreign languages, gastronomy, reading and music.",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -144,16 +144,16 @@ const miscellaneous = [
 const section5Title = "Get in Touch";
 const contact = {
   pitch:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
-  copyright: "Marcia Skousen",
+    "After viewing my portfolio or resume you may have some questions for me. I know I am not your typical web development boot camp graduate.  If you're looking for an experienced professional with the programming and life skills to tackle complex challenges, let's talk.",
+  copyright: "",
   contactUrl: "",
 };
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
 const social = {
-  github: "https://github.com",
-  linkedin: "https://linkedin.com",
-  instagram: "https://instagram.com",
+  github: "https://github.com/marcysko",
+  linkedin: "https://www.linkedin.com/in/marcia-skousen/",
+  instagram: "https://instagram.com/marcia_l_skousen",
   resume: "https://docs.google.com/document/d/18zZ1pFuwUCThGCUzuikNlsXMjeBBcwpIhkJArd2R6Lc/edit?usp=sharing",
 };
 // Dont change anything here
