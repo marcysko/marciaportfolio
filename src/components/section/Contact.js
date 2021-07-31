@@ -39,7 +39,7 @@ const Contact = () => {
             </div>
             </div>
         </div>
-            <p id="not-dark" className="Copy">2021 © Copyright <strong>{contact.copyright}</strong>. All Rights Reserved</p>
+            <p id="not-dark" className="Copy">2021 Marcia Skousen<strong>{contact.copyright}</strong>. Made With Love.❤️</p>
         </div>
     )
     
