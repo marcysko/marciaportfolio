@@ -1,4 +1,8 @@
 
+
+## Description
+Added personal portfolio created with React to introduce myself, showcase my past projects, contact me and download my resume.
+
 ## Acknowledgement
 https://github.com/kaustubhai
 
