@@ -38,8 +38,8 @@ const skillsBar = [
     faClass: "fab fa-js",
   },
   {
-    name: "SASS",
-    faClass: "fab fa-sass",
+    name: "Bootstrap",
+    faClass: "fab fa-bootstrap",
   },
   {
     name: "Node",
@@ -50,8 +50,8 @@ const skillsBar = [
     faClass: "fab fa-python",
   },
   {
-    name: "Java",
-    faClass: "fab fa-java",
+    name: "React",
+    faClass: "fab fa-react",
   },
   {
     name: "PHP",
@@ -81,37 +81,37 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
-    name: "Project 2",
+    name: "AZ 4 Locals",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://agile-cliffs-08028.herokuapp.com/",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
-    name: "Project 3",
+    name: "Food Festival",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://marcysko.github.io/food-festival/",
   },
   {
     // Add image in './styles/images.css' in #project4
     id: "project4",
-    name: "Project 4",
+    name: "Weather Dashboard",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://marcysko.github.io/WK06WeatherDashboard/",
   },
   {
     // Add image in './styles/images.css' in #project5
     id: "project5",
-    name: "Project 5",
+    name: "Tattoo Ideas",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://nmoss3.github.io/tattooGenerator/",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project6",
-    name: "Project 6",
+    name: "Note Taker",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://desolate-ridge-51716.herokuapp.com/",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
@@ -122,20 +122,20 @@ const miscellaneous = [
   {
     // Add image in './styles/images.css' in #misc1
     id: "misc1",
-    name: "Miscellaneous 1",
-    url: "https://github.com/kaustubhai",
+    name: "Coding Boot Camp Certificate",
+    url: "https://i.postimg.cc/CMXCNMNF/Marcia-Skousen-01.png",
   },
   {
     // Add image in './styles/images.css' in #misc2
     id: "misc2",
-    name: "Miscellaneous 2",
-    url: "https://github.com/kaustubhai",
+    name: "Spy Solutions Website Demo",
+    url: "https://youtu.be/GFRrquMPY98",
   },
   {
     // Add image in './styles/images.css' in #misc3
     id: "misc3",
-    name: "Miscellaneous 3",
-    url: "https://github.com/kaustubhai",
+    name: "Adobe Photoshop and Premiere Pro Fun Project",
+    url: "https://youtu.be/CY_bM0Zu6BA",
   },
 ];
 // Contact form text, and Formspree link(to send a submit contact through their API as in contact.js)
