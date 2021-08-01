@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/marcysko/marciaportfolio.git/static/css/main.47d838bb.chunk.css",
-    "main.js": "/marcysko/marciaportfolio.git/static/js/main.459ded41.chunk.js",
-    "main.js.map": "/marcysko/marciaportfolio.git/static/js/main.459ded41.chunk.js.map",
-    "runtime-main.js": "/marcysko/marciaportfolio.git/static/js/runtime-main.adda451d.js",
-    "runtime-main.js.map": "/marcysko/marciaportfolio.git/static/js/runtime-main.adda451d.js.map",
-    "static/css/2.7fc9bc2b.chunk.css": "/marcysko/marciaportfolio.git/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.0462ee53.chunk.js": "/marcysko/marciaportfolio.git/static/js/2.0462ee53.chunk.js",
-    "static/js/2.0462ee53.chunk.js.map": "/marcysko/marciaportfolio.git/static/js/2.0462ee53.chunk.js.map",
-    "index.html": "/marcysko/marciaportfolio.git/index.html",
-    "static/css/2.7fc9bc2b.chunk.css.map": "/marcysko/marciaportfolio.git/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.47d838bb.chunk.css.map": "/marcysko/marciaportfolio.git/static/css/main.47d838bb.chunk.css.map",
-    "static/js/2.0462ee53.chunk.js.LICENSE.txt": "/marcysko/marciaportfolio.git/static/js/2.0462ee53.chunk.js.LICENSE.txt"
+    "main.css": "/marciaportfolio/static/css/main.47d838bb.chunk.css",
+    "main.js": "/marciaportfolio/static/js/main.459ded41.chunk.js",
+    "main.js.map": "/marciaportfolio/static/js/main.459ded41.chunk.js.map",
+    "runtime-main.js": "/marciaportfolio/static/js/runtime-main.86a41cd8.js",
+    "runtime-main.js.map": "/marciaportfolio/static/js/runtime-main.86a41cd8.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/marciaportfolio/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.0462ee53.chunk.js": "/marciaportfolio/static/js/2.0462ee53.chunk.js",
+    "static/js/2.0462ee53.chunk.js.map": "/marciaportfolio/static/js/2.0462ee53.chunk.js.map",
+    "index.html": "/marciaportfolio/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/marciaportfolio/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.47d838bb.chunk.css.map": "/marciaportfolio/static/css/main.47d838bb.chunk.css.map",
+    "static/js/2.0462ee53.chunk.js.LICENSE.txt": "/marciaportfolio/static/js/2.0462ee53.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.adda451d.js",
+    "static/js/runtime-main.86a41cd8.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.0462ee53.chunk.js",
     "static/css/main.47d838bb.chunk.css",
