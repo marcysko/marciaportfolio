@@ -53,10 +53,7 @@ const skillsBar = [
     name: "React",
     faClass: "fab fa-react",
   },
-  {
-    name: "PHP",
-    faClass: "fab fa-php",
-  },
+  
   {
     name: "Database",
     faClass: "fas fa-database",
@@ -75,14 +72,14 @@ const projects = [
     // Add image in './styles/images.css' in #project1
     id: "project1",
     name: "Spy Solutions",
-    skills: ["HTML, CSS, JS"],
+    skills: ["MERN"],
     url: "https://morning-tundra-00231.herokuapp.com/",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
     name: "AZ 4 Locals",
-    skills: ["HTML, CSS, JS"],
+    skills: ["Handlebars, CSS, JS"],
     url: "https://agile-cliffs-08028.herokuapp.com/",
   },
   {
@@ -146,7 +143,7 @@ const contact = {
   pitch:
     "After viewing my portfolio or resume you may have some questions for me. I know I am not your typical web development boot camp graduate.  If you're looking for an experienced professional with the programming and life skills to tackle complex challenges, let's talk.",
   copyright: "",
-  contactUrl: "",
+  contactUrl: "https://formspree.io/f/mnqlgvdy",
 };
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
